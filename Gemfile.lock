@@ -207,6 +207,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-21
+  x86_64-darwin-22
 
 DEPENDENCIES
   bootsnap
@@ -214,6 +215,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  nokogiri
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.4)
@@ -226,7 +228,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 3.2.0p0
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.4.1
